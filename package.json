@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/gage117/graphql-time-babyyy/issues"
   },
-  "homepage": "https://github.com/gage117/graphql-time-babyyy#readme"
+  "homepage": "https://github.com/gage117/graphql-time-babyyy#readme",
+  "dependencies": {
+    "graphql": "^15.5.1"
+  }
 }
